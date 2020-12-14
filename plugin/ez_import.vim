@@ -5,5 +5,5 @@ function InitEzImport()
 endfunction
 
 function GetEzImport()
-    python3 search_js_imports()
+    python3 run_ez_import_search()
 endfunction
